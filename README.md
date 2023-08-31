@@ -1,5 +1,7 @@
 # Ngclibootstrap
 
+This is a basic Angular 16 project with Bootstrap 5. There is also a simple reactive login form that contains some validation examples. The form is part of Maximilian Schwarzmüller's tutorial, "Angular - The Complete Guide". I highly suggest anyone interested in Angular watch this course.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
 ## Development server
